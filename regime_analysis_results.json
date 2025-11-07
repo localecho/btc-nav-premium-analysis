@@ -1,0 +1,29 @@
+{
+  "correlation": {
+    "nav_derivative_vs_regime_raw": 5.178235178833499e-05,
+    "nav_derivative_vs_regime_smooth": 0.03246918099934803
+  },
+  "regime_statistics": {
+    "bull_market": {
+      "days": 663,
+      "percentage": 53.59741309620048,
+      "avg_nav_premium": 2.0622217254599766,
+      "median_nav_premium": 1.9803431649330747,
+      "avg_derivative": -0.004639372206931617,
+      "median_derivative": -0.0026177300327528963
+    },
+    "bear_market": {
+      "days": 574,
+      "percentage": 46.40258690379952,
+      "avg_nav_premium": 1.8807807386202695,
+      "median_nav_premium": 1.6239037486992283,
+      "avg_derivative": -0.004656327483385947,
+      "median_derivative": -0.003972208242981057
+    }
+  },
+  "statistical_test": {
+    "t_statistic": 0.0018175531737891592,
+    "p_value": 0.9985500974303612,
+    "significant": false
+  }
+}
