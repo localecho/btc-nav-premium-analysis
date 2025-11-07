@@ -1,0 +1,590 @@
+[
+  {
+    "date": "2020-08-11",
+    "btc_acquired": 21454,
+    "avg_acquisition_cost": 11111,
+    "total_cost_millions": 250,
+    "cumulative_btc_holdings": 21454
+  },
+  {
+    "date": "2020-09-15",
+    "btc_acquired": 16796,
+    "avg_acquisition_cost": 10419,
+    "total_cost_millions": 175,
+    "cumulative_btc_holdings": 38250
+  },
+  {
+    "date": "2020-12-04",
+    "btc_acquired": 2574,
+    "avg_acquisition_cost": 19427,
+    "total_cost_millions": 50,
+    "cumulative_btc_holdings": 40824
+  },
+  {
+    "date": "2020-12-21",
+    "btc_acquired": 29646,
+    "avg_acquisition_cost": 22000,
+    "total_cost_millions": 650,
+    "cumulative_btc_holdings": 70470
+  },
+  {
+    "date": "2021-01-22",
+    "btc_acquired": 295,
+    "avg_acquisition_cost": 33810,
+    "total_cost_millions": 10,
+    "cumulative_btc_holdings": 70765
+  },
+  {
+    "date": "2021-02-02",
+    "btc_acquired": 10000,
+    "avg_acquisition_cost": 37617,
+    "total_cost_millions": 295,
+    "cumulative_btc_holdings": 80765
+  },
+  {
+    "date": "2021-02-24",
+    "btc_acquired": 19452,
+    "avg_acquisition_cost": 52765,
+    "total_cost_millions": 1026,
+    "cumulative_btc_holdings": 90531
+  },
+  {
+    "date": "2021-03-05",
+    "btc_acquired": 205,
+    "avg_acquisition_cost": 48888,
+    "total_cost_millions": 10,
+    "cumulative_btc_holdings": 90736
+  },
+  {
+    "date": "2021-03-12",
+    "btc_acquired": 262,
+    "avg_acquisition_cost": 57146,
+    "total_cost_millions": 15,
+    "cumulative_btc_holdings": 90998
+  },
+  {
+    "date": "2021-04-05",
+    "btc_acquired": 253,
+    "avg_acquisition_cost": 59339,
+    "total_cost_millions": 15,
+    "cumulative_btc_holdings": 91251
+  },
+  {
+    "date": "2021-05-13",
+    "btc_acquired": 229,
+    "avg_acquisition_cost": 43663,
+    "total_cost_millions": 10,
+    "cumulative_btc_holdings": 91480
+  },
+  {
+    "date": "2021-05-18",
+    "btc_acquired": 271,
+    "avg_acquisition_cost": 49229,
+    "total_cost_millions": 13,
+    "cumulative_btc_holdings": 91751
+  },
+  {
+    "date": "2021-06-21",
+    "btc_acquired": 13005,
+    "avg_acquisition_cost": 37617,
+    "total_cost_millions": 489,
+    "cumulative_btc_holdings": 105085
+  },
+  {
+    "date": "2021-08-24",
+    "btc_acquired": 3907,
+    "avg_acquisition_cost": 45294,
+    "total_cost_millions": 177,
+    "cumulative_btc_holdings": 114042
+  },
+  {
+    "date": "2021-09-13",
+    "btc_acquired": 5050,
+    "avg_acquisition_cost": 48099,
+    "total_cost_millions": 243,
+    "cumulative_btc_holdings": 119092
+  },
+  {
+    "date": "2021-11-29",
+    "btc_acquired": 7002,
+    "avg_acquisition_cost": 59187,
+    "total_cost_millions": 414,
+    "cumulative_btc_holdings": 122477
+  },
+  {
+    "date": "2021-12-09",
+    "btc_acquired": 1434,
+    "avg_acquisition_cost": 57477,
+    "total_cost_millions": 82,
+    "cumulative_btc_holdings": 122477
+  },
+  {
+    "date": "2021-12-30",
+    "btc_acquired": 1914,
+    "avg_acquisition_cost": 49229,
+    "total_cost_millions": 94,
+    "cumulative_btc_holdings": 124391
+  },
+  {
+    "date": "2022-02-01",
+    "btc_acquired": 660,
+    "avg_acquisition_cost": 37865,
+    "total_cost_millions": 25,
+    "cumulative_btc_holdings": 125051
+  },
+  {
+    "date": "2022-04-05",
+    "btc_acquired": 4167,
+    "avg_acquisition_cost": 45714,
+    "total_cost_millions": 190,
+    "cumulative_btc_holdings": 129218
+  },
+  {
+    "date": "2022-06-29",
+    "btc_acquired": 480,
+    "avg_acquisition_cost": 20817,
+    "total_cost_millions": 10,
+    "cumulative_btc_holdings": 129698
+  },
+  {
+    "date": "2022-09-20",
+    "btc_acquired": 301,
+    "avg_acquisition_cost": 19851,
+    "total_cost_millions": 6,
+    "cumulative_btc_holdings": 129999
+  },
+  {
+    "date": "2022-12-28",
+    "btc_acquired": 2501,
+    "avg_acquisition_cost": 17847,
+    "total_cost_millions": 45,
+    "cumulative_btc_holdings": 132500
+  },
+  {
+    "date": "2023-03-23",
+    "btc_acquired": 6455,
+    "avg_acquisition_cost": 23238,
+    "total_cost_millions": 150,
+    "cumulative_btc_holdings": 138955
+  },
+  {
+    "date": "2023-04-05",
+    "btc_acquired": 1045,
+    "avg_acquisition_cost": 28016,
+    "total_cost_millions": 29,
+    "cumulative_btc_holdings": 140000
+  },
+  {
+    "date": "2023-06-28",
+    "btc_acquired": 12333,
+    "avg_acquisition_cost": 28136,
+    "total_cost_millions": 347,
+    "cumulative_btc_holdings": 152333
+  },
+  {
+    "date": "2023-08-01",
+    "btc_acquired": 467,
+    "avg_acquisition_cost": 30788,
+    "total_cost_millions": 14,
+    "cumulative_btc_holdings": 152800
+  },
+  {
+    "date": "2023-09-25",
+    "btc_acquired": 5445,
+    "avg_acquisition_cost": 27053,
+    "total_cost_millions": 147,
+    "cumulative_btc_holdings": 158245
+  },
+  {
+    "date": "2023-11-01",
+    "btc_acquired": 155,
+    "avg_acquisition_cost": 34495,
+    "total_cost_millions": 5,
+    "cumulative_btc_holdings": 158400
+  },
+  {
+    "date": "2023-11-30",
+    "btc_acquired": 16130,
+    "avg_acquisition_cost": 36785,
+    "total_cost_millions": 593,
+    "cumulative_btc_holdings": 174530
+  },
+  {
+    "date": "2023-12-27",
+    "btc_acquired": 14620,
+    "avg_acquisition_cost": 42110,
+    "total_cost_millions": 616,
+    "cumulative_btc_holdings": 189150
+  },
+  {
+    "date": "2024-02-06",
+    "btc_acquired": 850,
+    "avg_acquisition_cost": 43723,
+    "total_cost_millions": 37,
+    "cumulative_btc_holdings": 190000
+  },
+  {
+    "date": "2024-02-26",
+    "btc_acquired": 3000,
+    "avg_acquisition_cost": 51813,
+    "total_cost_millions": 155,
+    "cumulative_btc_holdings": 193000
+  },
+  {
+    "date": "2024-03-11",
+    "btc_acquired": 12000,
+    "avg_acquisition_cost": 68477,
+    "total_cost_millions": 822,
+    "cumulative_btc_holdings": 205000
+  },
+  {
+    "date": "2024-03-19",
+    "btc_acquired": 9245,
+    "avg_acquisition_cost": 67382,
+    "total_cost_millions": 623,
+    "cumulative_btc_holdings": 214245
+  },
+  {
+    "date": "2024-04-29",
+    "btc_acquired": 155,
+    "avg_acquisition_cost": 63397,
+    "total_cost_millions": 10,
+    "cumulative_btc_holdings": 214400
+  },
+  {
+    "date": "2024-06-20",
+    "btc_acquired": 11931,
+    "avg_acquisition_cost": 65883,
+    "total_cost_millions": 786,
+    "cumulative_btc_holdings": 226331
+  },
+  {
+    "date": "2024-08-01",
+    "btc_acquired": 169,
+    "avg_acquisition_cost": 67455,
+    "total_cost_millions": 11,
+    "cumulative_btc_holdings": 226500
+  },
+  {
+    "date": "2024-09-13",
+    "btc_acquired": 18300,
+    "avg_acquisition_cost": 60408,
+    "total_cost_millions": 1110,
+    "cumulative_btc_holdings": 244800
+  },
+  {
+    "date": "2024-09-20",
+    "btc_acquired": 7420,
+    "avg_acquisition_cost": 61750,
+    "total_cost_millions": 458,
+    "cumulative_btc_holdings": 252220
+  },
+  {
+    "date": "2024-11-11",
+    "btc_acquired": 27200,
+    "avg_acquisition_cost": 74463,
+    "total_cost_millions": 2025,
+    "cumulative_btc_holdings": 279420
+  },
+  {
+    "date": "2024-11-18",
+    "btc_acquired": 51780,
+    "avg_acquisition_cost": 88627,
+    "total_cost_millions": 4600,
+    "cumulative_btc_holdings": 331200
+  },
+  {
+    "date": "2024-11-25",
+    "btc_acquired": 55500,
+    "avg_acquisition_cost": 97862,
+    "total_cost_millions": 5400,
+    "cumulative_btc_holdings": 386700
+  },
+  {
+    "date": "2024-12-02",
+    "btc_acquired": 15400,
+    "avg_acquisition_cost": 95976,
+    "total_cost_millions": 1500,
+    "cumulative_btc_holdings": 402100
+  },
+  {
+    "date": "2024-12-09",
+    "btc_acquired": 21550,
+    "avg_acquisition_cost": 98783,
+    "total_cost_millions": 2100,
+    "cumulative_btc_holdings": 423650
+  },
+  {
+    "date": "2024-12-16",
+    "btc_acquired": 15350,
+    "avg_acquisition_cost": 100386,
+    "total_cost_millions": 1500,
+    "cumulative_btc_holdings": 439000
+  },
+  {
+    "date": "2024-12-23",
+    "btc_acquired": 5262,
+    "avg_acquisition_cost": 106662,
+    "total_cost_millions": 561,
+    "cumulative_btc_holdings": 444262
+  },
+  {
+    "date": "2024-12-30",
+    "btc_acquired": 2138,
+    "avg_acquisition_cost": 97837,
+    "total_cost_millions": 209,
+    "cumulative_btc_holdings": 446400
+  },
+  {
+    "date": "2025-01-06",
+    "btc_acquired": 1070,
+    "avg_acquisition_cost": 94004,
+    "total_cost_millions": 101,
+    "cumulative_btc_holdings": 447470
+  },
+  {
+    "date": "2025-01-13",
+    "btc_acquired": 2530,
+    "avg_acquisition_cost": 95972,
+    "total_cost_millions": 243,
+    "cumulative_btc_holdings": 450000
+  },
+  {
+    "date": "2025-01-21",
+    "btc_acquired": 11000,
+    "avg_acquisition_cost": 101191,
+    "total_cost_millions": 1100,
+    "cumulative_btc_holdings": 461000
+  },
+  {
+    "date": "2025-01-27",
+    "btc_acquired": 10107,
+    "avg_acquisition_cost": 105596,
+    "total_cost_millions": 1100,
+    "cumulative_btc_holdings": 471107
+  },
+  {
+    "date": "2025-02-10",
+    "btc_acquired": 7633,
+    "avg_acquisition_cost": 97255,
+    "total_cost_millions": 742,
+    "cumulative_btc_holdings": 478740
+  },
+  {
+    "date": "2025-02-24",
+    "btc_acquired": 20356,
+    "avg_acquisition_cost": 97514,
+    "total_cost_millions": 1985,
+    "cumulative_btc_holdings": 499096
+  },
+  {
+    "date": "2025-03-17",
+    "btc_acquired": 130,
+    "avg_acquisition_cost": 82981,
+    "total_cost_millions": 11,
+    "cumulative_btc_holdings": 499226
+  },
+  {
+    "date": "2025-03-24",
+    "btc_acquired": 6911,
+    "avg_acquisition_cost": 84529,
+    "total_cost_millions": 584,
+    "cumulative_btc_holdings": 506137
+  },
+  {
+    "date": "2025-03-31",
+    "btc_acquired": 22048,
+    "avg_acquisition_cost": 86969,
+    "total_cost_millions": 1918,
+    "cumulative_btc_holdings": 528185
+  },
+  {
+    "date": "2025-04-14",
+    "btc_acquired": 3459,
+    "avg_acquisition_cost": 82618,
+    "total_cost_millions": 286,
+    "cumulative_btc_holdings": 531644
+  },
+  {
+    "date": "2025-04-21",
+    "btc_acquired": 6556,
+    "avg_acquisition_cost": 84785,
+    "total_cost_millions": 556,
+    "cumulative_btc_holdings": 538200
+  },
+  {
+    "date": "2025-04-28",
+    "btc_acquired": 15355,
+    "avg_acquisition_cost": 92737,
+    "total_cost_millions": 1424,
+    "cumulative_btc_holdings": 553555
+  },
+  {
+    "date": "2025-05-05",
+    "btc_acquired": 1895,
+    "avg_acquisition_cost": 95167,
+    "total_cost_millions": 180,
+    "cumulative_btc_holdings": 555450
+  },
+  {
+    "date": "2025-05-12",
+    "btc_acquired": 13390,
+    "avg_acquisition_cost": 99856,
+    "total_cost_millions": 1337,
+    "cumulative_btc_holdings": 568840
+  },
+  {
+    "date": "2025-05-19",
+    "btc_acquired": 7390,
+    "avg_acquisition_cost": 103498,
+    "total_cost_millions": 765,
+    "cumulative_btc_holdings": 576230
+  },
+  {
+    "date": "2025-05-26",
+    "btc_acquired": 4020,
+    "avg_acquisition_cost": 106237,
+    "total_cost_millions": 427,
+    "cumulative_btc_holdings": 580250
+  },
+  {
+    "date": "2025-06-02",
+    "btc_acquired": 705,
+    "avg_acquisition_cost": 106495,
+    "total_cost_millions": 75,
+    "cumulative_btc_holdings": 580955
+  },
+  {
+    "date": "2025-06-09",
+    "btc_acquired": 1045,
+    "avg_acquisition_cost": 105426,
+    "total_cost_millions": 110,
+    "cumulative_btc_holdings": 582000
+  },
+  {
+    "date": "2025-06-16",
+    "btc_acquired": 10100,
+    "avg_acquisition_cost": 104080,
+    "total_cost_millions": 1051,
+    "cumulative_btc_holdings": 592100
+  },
+  {
+    "date": "2025-06-23",
+    "btc_acquired": 245,
+    "avg_acquisition_cost": 105856,
+    "total_cost_millions": 26,
+    "cumulative_btc_holdings": 592345
+  },
+  {
+    "date": "2025-06-30",
+    "btc_acquired": 4980,
+    "avg_acquisition_cost": 106801,
+    "total_cost_millions": 532,
+    "cumulative_btc_holdings": 597325
+  },
+  {
+    "date": "2025-07-14",
+    "btc_acquired": 4225,
+    "avg_acquisition_cost": 111827,
+    "total_cost_millions": 472,
+    "cumulative_btc_holdings": 601550
+  },
+  {
+    "date": "2025-07-21",
+    "btc_acquired": 6220,
+    "avg_acquisition_cost": 118940,
+    "total_cost_millions": 740,
+    "cumulative_btc_holdings": 607770
+  },
+  {
+    "date": "2025-07-29",
+    "btc_acquired": 21021,
+    "avg_acquisition_cost": 117256,
+    "total_cost_millions": 2465,
+    "cumulative_btc_holdings": 628791
+  },
+  {
+    "date": "2025-08-11",
+    "btc_acquired": 155,
+    "avg_acquisition_cost": 116401,
+    "total_cost_millions": 18,
+    "cumulative_btc_holdings": 628946
+  },
+  {
+    "date": "2025-08-18",
+    "btc_acquired": 430,
+    "avg_acquisition_cost": 119666,
+    "total_cost_millions": 51,
+    "cumulative_btc_holdings": 629376
+  },
+  {
+    "date": "2025-08-25",
+    "btc_acquired": 3081,
+    "avg_acquisition_cost": 115829,
+    "total_cost_millions": 357,
+    "cumulative_btc_holdings": 632457
+  },
+  {
+    "date": "2025-09-02",
+    "btc_acquired": 4048,
+    "avg_acquisition_cost": 110981,
+    "total_cost_millions": 449,
+    "cumulative_btc_holdings": 636505
+  },
+  {
+    "date": "2025-09-08",
+    "btc_acquired": 1955,
+    "avg_acquisition_cost": 111196,
+    "total_cost_millions": 217,
+    "cumulative_btc_holdings": 638460
+  },
+  {
+    "date": "2025-09-15",
+    "btc_acquired": 525,
+    "avg_acquisition_cost": 114562,
+    "total_cost_millions": 60,
+    "cumulative_btc_holdings": 638985
+  },
+  {
+    "date": "2025-09-22",
+    "btc_acquired": 850,
+    "avg_acquisition_cost": 117344,
+    "total_cost_millions": 100,
+    "cumulative_btc_holdings": 639835
+  },
+  {
+    "date": "2025-09-29",
+    "btc_acquired": 196,
+    "avg_acquisition_cost": 113048,
+    "total_cost_millions": 22,
+    "cumulative_btc_holdings": 640031
+  },
+  {
+    "date": "2025-10-13",
+    "btc_acquired": 220,
+    "avg_acquisition_cost": 123561,
+    "total_cost_millions": 27,
+    "cumulative_btc_holdings": 640250
+  },
+  {
+    "date": "2025-10-20",
+    "btc_acquired": 168,
+    "avg_acquisition_cost": 112051,
+    "total_cost_millions": 19,
+    "cumulative_btc_holdings": 640418
+  },
+  {
+    "date": "2025-10-27",
+    "btc_acquired": 390,
+    "avg_acquisition_cost": 111053,
+    "total_cost_millions": 43,
+    "cumulative_btc_holdings": 640808
+  },
+  {
+    "date": "2025-11-03",
+    "btc_acquired": 397,
+    "avg_acquisition_cost": 114771,
+    "total_cost_millions": 46,
+    "cumulative_btc_holdings": 641205
+  }
+]
