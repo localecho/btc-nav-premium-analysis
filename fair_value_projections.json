@@ -1,0 +1,226 @@
+{
+  "analysis_date": "2025-11-06",
+  "current_state": {
+    "btc_price": 101141.77,
+    "mstr_price": 237.2,
+    "btc_holdings": 641205,
+    "shares_outstanding": 320000000,
+    "nav_per_share": 202.66440197765627,
+    "nav_premium": 1.17
+  },
+  "today_fair_values": [
+    {
+      "scenario": "Conservative (Bear Market Median)",
+      "fair_price": 343.3163312038032,
+      "nav_premium": 1.62,
+      "upside_pct": 44.737070490642175
+    },
+    {
+      "scenario": "Fair Value (Historical Median)",
+      "fair_price": 377.76927954000473,
+      "nav_premium": 1.79,
+      "upside_pct": 59.26192223440334
+    },
+    {
+      "scenario": "Bull Case (Bull Market Mean)",
+      "fair_price": 432.48866807397195,
+      "nav_premium": 2.06,
+      "upside_pct": 82.33080441567115
+    },
+    {
+      "scenario": "Optimistic (2.5x Premium)",
+      "fair_price": 521.6610049441407,
+      "nav_premium": 2.5,
+      "upside_pct": 119.92453834070011
+    },
+    {
+      "scenario": "Current Market Price",
+      "fair_price": 237.2,
+      "nav_premium": 1.17,
+      "upside_pct": 0.0
+    }
+  ],
+  "quarterly_projections_2026": [
+    {
+      "quarter": "Q1_2026",
+      "date": "2026-03-31",
+      "btc_scenario": "bear",
+      "btc_price": 75000,
+      "btc_holdings": 660441.15,
+      "shares_outstanding": 326400000.0,
+      "conservative_price": 242.63366842830885,
+      "fair_value_price": 288.16040211397063,
+      "bull_price": 333.6871357996324
+    },
+    {
+      "quarter": "Q1_2026",
+      "date": "2026-03-31",
+      "btc_scenario": "base",
+      "btc_price": 95000,
+      "btc_holdings": 660441.15,
+      "shares_outstanding": 326400000.0,
+      "conservative_price": 303.3359800091912,
+      "fair_value_price": 361.00317601102944,
+      "bull_price": 418.6703720128677
+    },
+    {
+      "quarter": "Q1_2026",
+      "date": "2026-03-31",
+      "btc_scenario": "bull",
+      "btc_price": 125000,
+      "btc_holdings": 660441.15,
+      "shares_outstanding": 326400000.0,
+      "conservative_price": 394.38944738051475,
+      "fair_value_price": 470.2673368566177,
+      "bull_price": 546.1452263327207
+    },
+    {
+      "quarter": "Q1_2026",
+      "date": "2026-03-31",
+      "btc_scenario": "moon",
+      "btc_price": 150000,
+      "btc_holdings": 660441.15,
+      "shares_outstanding": 326400000.0,
+      "conservative_price": 470.2673368566177,
+      "fair_value_price": 561.3208042279413,
+      "bull_price": 652.3742715992648
+    },
+    {
+      "quarter": "Q2_2026",
+      "date": "2026-06-30",
+      "btc_scenario": "bear",
+      "btc_price": 70000,
+      "btc_holdings": 680254.3844999999,
+      "shares_outstanding": 332928000.0,
+      "conservative_price": 229.54101298929498,
+      "fair_value_price": 272.44921558715396,
+      "bull_price": 315.357418185013
+    },
+    {
+      "quarter": "Q2_2026",
+      "date": "2026-06-30",
+      "btc_scenario": "base",
+      "btc_price": 105000,
+      "btc_holdings": 680254.3844999999,
+      "shares_outstanding": 332928000.0,
+      "conservative_price": 336.8115194839425,
+      "fair_value_price": 401.17382338073105,
+      "bull_price": 465.53612727751954
+    },
+    {
+      "quarter": "Q2_2026",
+      "date": "2026-06-30",
+      "btc_scenario": "bull",
+      "btc_price": 140000,
+      "btc_holdings": 680254.3844999999,
+      "shares_outstanding": 332928000.0,
+      "conservative_price": 444.08202597858997,
+      "fair_value_price": 529.8984311743079,
+      "bull_price": 615.714836370026
+    },
+    {
+      "quarter": "Q2_2026",
+      "date": "2026-06-30",
+      "btc_scenario": "moon",
+      "btc_price": 175000,
+      "btc_holdings": 680254.3844999999,
+      "shares_outstanding": 332928000.0,
+      "conservative_price": 551.3525324732374,
+      "fair_value_price": 658.6230389678849,
+      "bull_price": 765.8935454625324
+    },
+    {
+      "quarter": "Q3_2026",
+      "date": "2026-09-30",
+      "btc_scenario": "bear",
+      "btc_price": 65000,
+      "btc_holdings": 700662.016035,
+      "shares_outstanding": 339586560.00000006,
+      "conservative_price": 216.1697593786176,
+      "fair_value_price": 256.40371125434115,
+      "bull_price": 296.63766313006465
+    },
+    {
+      "quarter": "Q3_2026",
+      "date": "2026-09-30",
+      "btc_scenario": "base",
+      "btc_price": 115000,
+      "btc_holdings": 700662.016035,
+      "shares_outstanding": 339586560.00000006,
+      "conservative_price": 370.91572813140033,
+      "fair_value_price": 442.0988737576804,
+      "bull_price": 513.2820193839605
+    },
+    {
+      "quarter": "Q3_2026",
+      "date": "2026-09-30",
+      "btc_scenario": "bull",
+      "btc_price": 155000,
+      "btc_holdings": 700662.016035,
+      "shares_outstanding": 339586560.00000006,
+      "conservative_price": 494.71250313362657,
+      "fair_value_price": 590.6550037603519,
+      "bull_price": 686.5975043870773
+    },
+    {
+      "quarter": "Q3_2026",
+      "date": "2026-09-30",
+      "btc_scenario": "moon",
+      "btc_price": 200000,
+      "btc_holdings": 700662.016035,
+      "shares_outstanding": 339586560.00000006,
+      "conservative_price": 633.983875011131,
+      "fair_value_price": 757.7806500133572,
+      "bull_price": 881.5774250155835
+    },
+    {
+      "quarter": "Q4_2026",
+      "date": "2026-12-31",
+      "btc_scenario": "bear",
+      "btc_price": 60000,
+      "btc_holdings": 721681.8765160501,
+      "shares_outstanding": 346378291.2,
+      "conservative_price": 202.51570331219565,
+      "fair_value_price": 240.0188439746348,
+      "bull_price": 277.5219846370739
+    },
+    {
+      "quarter": "Q4_2026",
+      "date": "2026-12-31",
+      "btc_scenario": "base",
+      "btc_price": 125000,
+      "btc_holdings": 721681.8765160501,
+      "shares_outstanding": 346378291.2,
+      "conservative_price": 405.65771523374093,
+      "fair_value_price": 483.78925828048915,
+      "bull_price": 561.9208013272373
+    },
+    {
+      "quarter": "Q4_2026",
+      "date": "2026-12-31",
+      "btc_scenario": "bull",
+      "btc_price": 170000,
+      "btc_holdings": 721681.8765160501,
+      "shares_outstanding": 346378291.2,
+      "conservative_price": 546.2944927178877,
+      "fair_value_price": 652.5533912614652,
+      "bull_price": 758.8122898050428
+    },
+    {
+      "quarter": "Q4_2026",
+      "date": "2026-12-31",
+      "btc_scenario": "moon",
+      "btc_price": 225000,
+      "btc_holdings": 721681.8765160501,
+      "shares_outstanding": 346378291.2,
+      "conservative_price": 718.1838874207338,
+      "fair_value_price": 858.8206649048805,
+      "bull_price": 999.4574423890273
+    }
+  ],
+  "assumptions": {
+    "btc_holdings_growth_quarterly": 0.03,
+    "shares_dilution_quarterly": 0.02,
+    "software_business_value_per_share": 15
+  }
+}
